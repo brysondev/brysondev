@@ -1,8 +1,4 @@
 
-<h2 align="center">About Me</h2><br/>
-<p align="center">🌱 I’m currently learning OO languages and the basics of game programming. </p>
-<p align="center">🏫 Studying @ college. </p>
-
 <p align="center">
   <a href="https://brysonscorner.info">
     <img src="https://img.shields.io/website?label=brysonscorner.info&url=https%3A%2F%2Fbrysonscorner.info" />
