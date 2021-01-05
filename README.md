@@ -3,9 +3,6 @@
   <a href="https://brysonscorner.info">
     <img src="https://img.shields.io/website?label=brysonscorner.info&url=https%3A%2F%2Fbrysonscorner.info" />
   </a> 
-  <a href="https://discord.gg/pdeKkuz">
-     <img alt="Discord Join" src="https://img.shields.io/discord/698680703688245268?color=%237289DA&label=Discord%20Server&logo=discord" />
-  </a>
     <a href="https://github.com/brysondev">
      <img src="https://img.shields.io/github/followers/brysondev?color=gree&logo=github" />
     </a>
