@@ -1,8 +1,5 @@
 
 <p align="center">
-  <a href="https://brysonscorner.info">
-    <img src="https://img.shields.io/website?label=brysonscorner.info&url=https%3A%2F%2Fbrysonscorner.info" />
-  </a> 
     <a href="https://github.com/brysondev">
      <img src="https://img.shields.io/github/followers/brysondev?color=gree&logo=github" />
     </a>
@@ -11,4 +8,5 @@
    </a>
 
 <p align="center">
+  Welcome! I do programming things.
   </p>
