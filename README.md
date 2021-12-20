@@ -1,12 +1,8 @@
+### Brysondev's Github
 
-<p align="center">
-    <a href="https://github.com/brysondev">
-     <img src="https://img.shields.io/github/followers/brysondev?color=gree&logo=github" />
-    </a>
-   <a href="https://www.youtube.com/channel/UCz2q0x316-j9Mj7baWZarng">
-     <img alt="Issues" src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube" />
-   </a>
+Welcome! I am a programmer from Canada. 🇨🇦
 
-<p align="center">
-  Welcome! I do programming things.
-  </p>
+I prefer innovation over creation so if you're having issues, I may know how to fix them! 🔨
+
+Check out my website: https://brysondev.io
+
