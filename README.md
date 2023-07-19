@@ -2,4 +2,7 @@
 
 Welcome! I am a programmer from Canada. 🇨🇦
 
-Check out my website: https://brysondev.io
+Matrix account: ***(at)brysondev(at)bry.so***
+
+Check out my website(s): https://brysondev.io
+https://valentinekindahot.fr
