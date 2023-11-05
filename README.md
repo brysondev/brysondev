@@ -12,3 +12,4 @@ Check out my website(s):
 
 https://brysondev.io -- Personal site made with deno FRESH framework 🍋
 
+https://bry.so -- Currently the homepage is empty, but this domain acts as a hub for various instances of self-hosted apps. Matrix included.
