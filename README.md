@@ -16,3 +16,4 @@ https://bry.so -- Currently the homepage is empty, but this domain acts as a hub
 - https://git.bry.so/ -- Personal Git instance. Available whenever I make something public outside of github. 👨‍💻
 - https://matrix.bry.so/ -- Personal [Matrix](https://matrix.org) instance. Not accepting applications. ❌
 - https://jitsi.bry.so/ -- Personal [Jitsi](https://jitsi.org/) instance. Invite only (unless I host it in a private matrix chat.) 🥷
+- https://itsajoke.fyi & https://gundamf.art -- Joke sites, feel free to visit them 🤡
