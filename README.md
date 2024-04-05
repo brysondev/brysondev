@@ -10,7 +10,7 @@ I can be reached by email at: bryson\@brysondev.io. 📫
 Check out my website(s):
 
 
-https://brysondev.io -- Personal site made with deno FRESH framework 🍋
+https://brysondev.ca -- Personal site made with deno FRESH framework 🍋
 
 https://bry.so -- Currently the homepage is empty, but this domain acts as a hub for various instances of self-hosted apps.
 - https://git.bry.so/ -- Personal Git instance. Available whenever I make something public outside of github. 👨‍💻
